@@ -19,6 +19,7 @@ public class ativ12 {
         else if (preco==3){
             System.out.println(num/2);}
         else System.out.println("numero invalido");
+        sc.close()
         }
     }
 
